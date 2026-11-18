@@ -1,7 +1,7 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="./assets/devMudi" width="100%" alt="Mahmoud Muhammad Sani, full-stack software engineer" />
+<img src="./assets/devMudi.jpeg" width="100%" alt="Mahmoud Muhammad Sani, full-stack software engineer" />
 
 <a href="https://github.com/develmahmoud">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4F46E5&center=true&vCenter=true&width=620&lines=I+build+software+for+slow+networks+and+cheap+phones;Building+StudySphere+%C2%B7+a+free+study+library;Building+DakikApp+%C2%B7+reminders+that+arrive+on+time;Open+to+remote+roles+and+freelance+work" alt="Typing intro" />
