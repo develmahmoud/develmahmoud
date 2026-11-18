@@ -89,7 +89,11 @@ I designed and built it end to end as founder and lead developer at SpaceSoftwar
 
 <!-- Add a screenshot or a short screen-recording GIF here. -->
 <p align="center">
-  <img src="./assets/dakikapp-preview.jpeg" width="90%" alt="DakikApp screenshots" />
+   <img src="./assets/dakikapp-preview.png" width="220" alt="DakikApp task list" />
+  &nbsp;
+  <img src="./assets/dakikapp-2.jpeg" width="220" alt="DakikApp reminder settings" />
+  &nbsp;
+  <img src="./assets/dakikapp-3.jpeg" width="220" alt="DakikApp calendar view" />
 </p>
 
 *"Dakik"* is Turkish for punctual. Most reminder apps go quiet on silent mode, arrive late on Android, and treat being late as failure. **DakikApp is a cross-platform task and reminder app built around one promise: never miss what matters.**
