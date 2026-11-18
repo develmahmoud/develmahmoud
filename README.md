@@ -1,7 +1,7 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:4f46e5&height=190&section=header&text=Mahmoud%20Muhammad%20Sani&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20software%20engineer%20%C2%B7%20web%20%26%20mobile&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Mahmoud Muhammad Sani, full-stack software engineer" />
+<img src="./assets/devMudi" width="100%" alt="Mahmoud Muhammad Sani, full-stack software engineer" />
 
 <a href="https://github.com/develmahmoud">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4F46E5&center=true&vCenter=true&width=620&lines=I+build+software+for+slow+networks+and+cheap+phones;Building+StudySphere+%C2%B7+a+free+study+library;Building+DakikApp+%C2%B7+reminders+that+arrive+on+time;Open+to+remote+roles+and+freelance+work" alt="Typing intro" />
@@ -89,7 +89,7 @@ I designed and built it end to end as founder and lead developer at SpaceSoftwar
 
 <!-- Add a screenshot or a short screen-recording GIF here. -->
 <p align="center">
-   <img src="./assets/dakikapp-preview.png" width="220" alt="DakikApp task list" />
+   <img src="./assets/dakikapp-preview.jpeg" width="220" alt="DakikApp task list" />
   &nbsp;
   <img src="./assets/dakikapp-2.jpeg" width="220" alt="DakikApp reminder settings" />
   &nbsp;
